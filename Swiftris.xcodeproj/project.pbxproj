@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05B30E9B255ABD9200702629 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B30E9A255ABD9200702629 /* Block.swift */; };
 		05BCDAD72559801200E2C122 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BCDAD62559801200E2C122 /* AppDelegate.swift */; };
 		05BCDADB2559801200E2C122 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 05BCDADA2559801200E2C122 /* Actions.sks */; };
 		05BCDADD2559801200E2C122 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BCDADC2559801200E2C122 /* GameScene.swift */; };
@@ -51,6 +52,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		05B30E9A255ABD9200702629 /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 		05BCDAD32559801200E2C122 /* Swiftris.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swiftris.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05BCDAD62559801200E2C122 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05BCDADA2559801200E2C122 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				05BCDB422559887D00E2C122 /* Images */,
 				05BCDAE52559801200E2C122 /* Info.plist */,
 				05BCDB8225598AE600E2C122 /* Array2d.swift */,
+				05B30E9A255ABD9200702629 /* Block.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -347,6 +350,7 @@
 			files = (
 				05BCDADD2559801200E2C122 /* GameScene.swift in Sources */,
 				05BCDB8325598AE600E2C122 /* Array2d.swift in Sources */,
+				05B30E9B255ABD9200702629 /* Block.swift in Sources */,
 				05BCDADF2559801200E2C122 /* GameViewController.swift in Sources */,
 				05BCDAD72559801200E2C122 /* AppDelegate.swift in Sources */,
 			);

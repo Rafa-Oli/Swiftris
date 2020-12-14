@@ -111,10 +111,6 @@ class Shape: Hashable, CustomStringConvertible{
     }
 }
 
-
-
-
-
 func ==(lhs: Shape, rhs: Shape) -> Bool {
     return lhs.row == rhs.row && lhs.column == rhs.column
 }
